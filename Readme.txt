@@ -1,0 +1,3 @@
+In this action game, you play as a ninja who defeats enemies by spinning (similar to Crash Bandicoot) and shooting shurikens that automatically target nearby foes. The game features an XP/leveling system, but currently, leveling up does not provide any in-game benefits. I had ideas for future enhancements, such as upgrading skill cooldowns, sprinting speed or duration, jumping length, spinning length, and max health. The primary goal of this project was to gain experience in game development, and I don't plan to continue its development. The game supports both keyboard and joystick controls
+
+Video Link:   https://youtu.be/daSEFSZG4yY
